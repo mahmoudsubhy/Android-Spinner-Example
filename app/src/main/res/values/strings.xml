@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android Spinner Example</string>
+    <array name="cunt">
+        <item>India</item>
+        <item>USA</item>
+        <item>China</item>
+        <item>Japan</item>
+        <item>Other</item>
+
+    </array>
+</resources>
